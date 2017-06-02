@@ -8,7 +8,7 @@ class roster:
         self.bot = bot
 
     @commands.command()
-    async def mycom(self):
+    async def what(self):
         """This does stujdföklafdsölkjdsfaöklafdskölff!"""
 
         #Your code will go here
