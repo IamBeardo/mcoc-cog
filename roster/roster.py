@@ -16,7 +16,7 @@ class roster:
 
 
     @commands.command()
-    async def punch(self, user : discord.member):
+    async def punch(self, user : discord.Member):
         """PUNCH"""
 
         await self.bot.say("ONE PUNCH! And " + user.mention + " is out! ლ(ಠ益ಠლ)")
