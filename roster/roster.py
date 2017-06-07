@@ -24,4 +24,4 @@ class zt:
 
 
 def setup(bot):
-    bot.add_cog(zt2(bot))
+    bot.add_cog(zt(bot))
