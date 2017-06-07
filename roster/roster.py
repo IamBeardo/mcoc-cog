@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
 
-class roster:
+class zt:
     """My custom cog that does stuff!"""
 
     def __init__(self, bot):
@@ -24,4 +24,4 @@ class roster:
 
 
 def setup(bot):
-    bot.add_cog(roster(bot))
+    bot.add_cog(zt2(bot))
